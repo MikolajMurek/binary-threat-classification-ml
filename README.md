@@ -21,7 +21,7 @@ Projekt został podzielony na 4 główne notatniki (Jupyter Notebook) stworzone 
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MikolajMurek/binary-threat-classification-ml/blob/main/02_cybersec_model_training_and_evaluation.ipynb)
 
 * `01_UNSW_NB15_cybersec_eda_and_preprocessing.ipynb` – czyszczenie zbioru UNSW-NB15, One-Hot Encoding, skalowanie cech, podział na podzbiory.
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MikolajMurek/binary-threat-classification-ml/blob/main/03_model_training.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MikolajMurek/binary-threat-classification-ml/blob/main/01_UNSW_NB15_cybersec_eda_and_preprocessing.ipynb)
 
 * `02_UNSW_NB15_cybersec_model_training_and_evaluation.ipynb` – trenowanie i testowanie modeli na zbiorze UNSW-NB15.
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MikolajMurek/binary-threat-classification-ml/blob/main/04_model_evaluation.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MikolajMurek/binary-threat-classification-ml/blob/main/02_UNSW_NB15_cybersec_model_training_and_evaluation.ipynb)
